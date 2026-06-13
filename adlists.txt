@@ -1,7 +1,4 @@
-adblock.turtlecute.org##.adbox.banner_ads.adsbox
-adblock.turtlecute.org##.textads
-/pagead.js$domain=adblock.turtlecute.org
-/widget/ads.
+adblock.turtlecute.org
 pagead2.googlesyndication.com
 adservice.google.com
 ad.doubleclick.net

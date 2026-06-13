@@ -1,0 +1,9 @@
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+adblock.turtlecute.org##.textads
+/pagead.js$domain=adblock.turtlecute.org
+/widget/ads.
+pagead2.googlesyndication.com
+adservice.google.com
+ad.doubleclick.net
+data.ads.oppomobile.com
+grs.hicloud.com
